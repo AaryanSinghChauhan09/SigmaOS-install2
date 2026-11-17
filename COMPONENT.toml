@@ -1,5 +1,5 @@
 [component]
 name = "SigmaOS-install2"
-description = "Alternate installer component"
+description = "Alternate installer (ubiquity-style)"
 version = "0.1.0"
 tier = 2
